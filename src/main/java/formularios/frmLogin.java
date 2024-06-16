@@ -17,7 +17,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class frmLogin extends javax.swing.JFrame {
 

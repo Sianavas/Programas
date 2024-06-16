@@ -6,7 +6,7 @@ package formularios;
 
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class frmAbertura extends javax.swing.JFrame {
 

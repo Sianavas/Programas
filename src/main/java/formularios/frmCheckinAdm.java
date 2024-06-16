@@ -7,7 +7,7 @@ package formularios;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class frmCheckinAdm extends javax.swing.JFrame {
 

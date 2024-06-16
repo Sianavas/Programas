@@ -6,7 +6,7 @@ package formularios;
 
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class frmSobre extends javax.swing.JFrame {
 

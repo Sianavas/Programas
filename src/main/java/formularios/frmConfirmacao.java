@@ -7,7 +7,7 @@ package formularios;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class frmConfirmacao extends javax.swing.JFrame {
 

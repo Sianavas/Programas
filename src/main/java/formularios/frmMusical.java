@@ -6,7 +6,7 @@ package formularios;
 
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class frmMusical extends javax.swing.JFrame {
 

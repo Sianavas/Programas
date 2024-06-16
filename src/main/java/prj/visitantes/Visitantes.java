@@ -8,7 +8,7 @@ import formularios.frmLogin;
 
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class Visitantes {
 

@@ -10,7 +10,7 @@ import javax.swing.table.TableRowSorter;
 
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class frmCadEventos extends javax.swing.JFrame {
 

@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Alexios
+ * @author Vitor
  */
 public class frmEsquecer extends javax.swing.JFrame {
 
